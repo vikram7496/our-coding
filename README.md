@@ -1,4 +1,4 @@
 # our-coding
-This is my first commit reposatory
+This is my first Git reposatory
 <br>
 author ~ vikramsingh
